@@ -13,6 +13,7 @@
 		496313F529C4242600FEF9C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 496313F329C4242600FEF9C5 /* Main.storyboard */; };
 		496313F729C4242600FEF9C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 496313F629C4242600FEF9C5 /* Assets.xcassets */; };
 		496313FA29C4242600FEF9C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 496313F829C4242600FEF9C5 /* LaunchScreen.storyboard */; };
+		49C2EE1329C8325B00A31EC5 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C2EE1229C8325B00A31EC5 /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		496313F629C4242600FEF9C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		496313F929C4242600FEF9C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		496313FB29C4242600FEF9C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49C2EE1229C8325B00A31EC5 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				496313EF29C4242500FEF9C5 /* SceneDelegate.swift */,
 				496313F129C4242500FEF9C5 /* ViewController.swift */,
 				496313F329C4242600FEF9C5 /* Main.storyboard */,
+				49C2EE1229C8325B00A31EC5 /* MyTableViewCell.swift */,
 				496313F629C4242600FEF9C5 /* Assets.xcassets */,
 				496313F829C4242600FEF9C5 /* LaunchScreen.storyboard */,
 				496313FB29C4242600FEF9C5 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				496313F229C4242500FEF9C5 /* ViewController.swift in Sources */,
+				49C2EE1329C8325B00A31EC5 /* MyTableViewCell.swift in Sources */,
 				496313EE29C4242500FEF9C5 /* AppDelegate.swift in Sources */,
 				496313F029C4242500FEF9C5 /* SceneDelegate.swift in Sources */,
 			);
